@@ -13,3 +13,4 @@
 - Dataset consists of 60,000 32x32 color images, ie 6000 images per class. 
 - We need to design a model to predict the label of these images correctly. 
 - Data Source: https://www.cs.toronto.edu/~kriz/cifar.html
+- nbViewer: https://nbviewer.jupyter.org/github/s9k96/Image-Classification-on-CIFAR10-using-CNN/blob/master/main.ipynb
